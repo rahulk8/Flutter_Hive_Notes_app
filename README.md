@@ -1,16 +1,16 @@
-# hive_notes_app
+Flutter Notes App made using flutter_hive & intl dependency.
 
-A new Flutter project.
+APK link for Notes App : https://drive.google.com/file/d/1MAmXmDmDjlmGRFCfexPasyB4PVMzk8O3/view?usp=sharing
 
-## Getting Started
+Screenshots:
 
-This project is a starting point for a Flutter application.
+![101](https://github.com/user-attachments/assets/0528a33a-709c-4927-aa59-d85031a8f6ac)
 
-A few resources to get you started if this is your first Flutter project:
+![102](https://github.com/user-attachments/assets/adb5287b-93df-4be9-ba39-a5d40dcedb0e)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![104](https://github.com/user-attachments/assets/0b439279-eae1-45bc-b91f-4210f505d6ef)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![106](https://github.com/user-attachments/assets/5c3e8488-ce03-4ab2-bd81-66203b21016a)
+
+![105](https://github.com/user-attachments/assets/b5d735be-1e03-459d-a1d3-414fcb891d76)
+
